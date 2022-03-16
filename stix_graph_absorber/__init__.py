@@ -1,1 +1,1 @@
-from stix_graph_absorber.stix_importer import Clumper
+from stix_graph_absorber.stix_importer import Graph_absorber
